@@ -1,8 +1,3 @@
-Here is a clean, professional **README.md** for your project.
-You can directly copy-paste this into a file named **README.md** in your GitHub repo.
-
----
-
 # 🚀 RTOS Priority-Based Task Scheduler (C++ Simulation)
 
 This project simulates a **pre-emptive, priority-based Real-Time Operating System (RTOS) scheduler** using C++.
@@ -151,7 +146,7 @@ Feel free to fork and improve:
 * Add **round robin** within same priority
 * Add detailed event logging
 
----
+
 
 ## 🏁 Author
 
